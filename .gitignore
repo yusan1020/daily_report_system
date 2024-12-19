@@ -19,5 +19,5 @@ build/
 Thumbs.db
 .DS_Store
 
-# Application Properties
+# Application Propertiess
 src/main/resources/application.properties
